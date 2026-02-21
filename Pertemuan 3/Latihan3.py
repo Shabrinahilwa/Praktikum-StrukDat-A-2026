@@ -29,4 +29,3 @@ r1 = Rekening("345", "2828")
 print(r1.get_PIN())
 print(p1.nama)
 print(p1.get_gaji())
-
